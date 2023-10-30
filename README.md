@@ -6,4 +6,4 @@ Codes while Learning NLP
 3. TF-IDF
 4. Spam Classifier
 5. Word2Vec
-
+6. Stock Sentiment Analysis using News Headlines(Data.csv used here)
